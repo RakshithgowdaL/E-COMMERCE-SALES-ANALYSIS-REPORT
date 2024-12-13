@@ -27,7 +27,7 @@ The report aims to assist businesses in identifying key performance areas and op
 - Discount levels and their impact on profits are highlighted.
 
 ## Screenshots
-![Sales Analysis Dashboard](./)
+![Sales Analysis Dashboard](./SCREENSHOT OF REPORT.jpg)
 
 ## How to View the Report
 1. Open the .pbix file using *Power BI Desktop*.
